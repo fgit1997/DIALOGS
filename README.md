@@ -1,2 +1,6 @@
-# DIALOGS
-The Project is called DIALOGS, because there is Human and Computer Interaction. The Dialogs are nothing but one type of word and small sentences. 
+The goal of the project is to convert English into American standard
+language signs. It will assist hard-of-hearing folks in understanding
+normal people. Everyone wants to communicate with people and
+share their opinions in our daily lives. Sign gestures are used by deaf
+individuals to communicate. People will now be able to converse with
+one another.
